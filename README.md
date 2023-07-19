@@ -7,6 +7,11 @@ The goal of this project is to perform data analytics on Uber data using various
 ## Architecture 
 <img src="architecture.jpg">
 
+## Visuals
+![uber1](https://github.com/shashwatbangar/uber-etl-pipeline-de-project/assets/62360781/fed0a65e-21c7-4aa0-995d-25a3b09930cc)
+https://lookerstudio.google.com/reporting/b752ef90-516f-40cd-9925-8c3b1400f80b
+
+
 ## Technology Used
 - Programming Language - Python
 
